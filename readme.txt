@@ -6,7 +6,7 @@ Requires at least: 2.9
 Tested up to: 3.0.1
 Stable tag: trunk
 
-Webfonts plugin for wordpress.
+Webfonts plugin for wordpress in xml format without editor.
 
 == Description ==
 
